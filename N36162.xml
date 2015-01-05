@@ -111,14 +111,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:047213_0000_1022B81F610DBB20"/>
-            <pb facs="tcp:047213_0001_1022B8233171A760"/>
+            <pb facs="unknown:047213_0000_1022B81F610DBB20"/>
+            <pb facs="unknown:047213_0001_1022B8233171A760"/>
             <p>THE Shepherd's Contemplation: OR, AN ESSAY ON WAYS AND MEANS TO PAY THE PUBLIC DEBT, AND TO SEAT CONGRESS-MEN ON WOOL-PACKS. IN A LETTER TO GEORGE WASHINGTON, Preſident of the United States of North-America, AND TO ALL THE OTHER GENUINE AMERICAN PATRIOTS.</p>
             <p>BY PASTOR AMERICANUS, A Patriot, and the Poor Man's Friend.</p>
             <p>PHILADELPHIA: Printed by W. W. WOODWARD, at Franklin's Head, No. 41, Cheſnut-ſtreet. 1794.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:047213_0002_102253CE032BCC50" rendition="simple:additions"/>
+            <pb facs="unknown:047213_0002_102253CE032BCC50"
+                rendition="simple:additions"/>
             <head>DEDICATION. To the MEMBERS of the PHILADELPHIA COUNTY SOCIETY for Promoting AGRICULTURE and Domeſtic MANUFACTURES.</head>
             <p>THE following Letter, drawn up with a view of making American Wool our ſtaple Commodity; and ex<g ref="char:EOLhyphen"/>tend the Deſign of thoſe concerned in the ſaid Society, and in <hi>our National Manufactory</hi>—is earneſtly Dedicated, by their ſincere Friend,</p>
             <closer>
@@ -131,7 +132,7 @@
       </front>
       <body>
          <div type="letter">
-            <pb facs="tcp:047213_0003_1022B828ADCB09A8"/>
+            <pb facs="unknown:047213_0003_1022B828ADCB09A8"/>
             <head>To George Waſhington, AND TO ALL THE OTHER GENUINE AMERICAN PATRIOTS.</head>
             <opener>
                <dateline>Philadelphia,
@@ -144,7 +145,7 @@
             <p>Therefore,</p>
             <p>Secondly, I ſhall, gentlemen, open myſelf fully on that important ſubject; not for the ſake of telling you a long ſto<g ref="char:EOLhyphen"/>ry (which I know the genuine patriots, are not particularly fond of) but for the ſake of the weighty inſtruction that I flatter myſelf, will neceſſarily reſult from our Shepherd's ſcheme. It ſhall not be longer if I can help it, than ſo ſe<g ref="char:EOLhyphen"/>rious a matter requires. The American Shepherd addreſſes us in this manner: He ſays, the reaſons for my preferring this Shepherd's ſcheme, are: <hi>Firſt,</hi> It is becauſe I want to ſee a plan for improving the preſent condition of the poor white people. <hi>Next,</hi> It is becauſe I wiſh to be beneficial to my country. <hi>Thirdly,</hi> It is becauſe I wiſh to throw my mite into the beſt public treaſury, and therein improve it.</p>
             <p>Come—help me raiſe the ever memorable Shepherd's Hall, and the profit thereof will be commenſurable to your
-<pb n="5" facs="tcp:047213_0004_1022B82B4D742338"/>
+<pb n="5" facs="unknown:047213_0004_1022B82B4D742338"/>
 public ſpirit: yes, and will be your exceeding great reward. I labour not for myſelf only, but for all them that patronize the ſaid ſcheme.</p>
             <p>He ſays, too, the poſition by me maintained is, that this ſcheme is more excellent, than the Yankie's Tontine bank; which is as follows:</p>
             <p>
@@ -169,7 +170,7 @@ public ſpirit: yes, and will be your exceeding great reward. I labour not for m
                      </body>
                   </floatingText>
                </note> juſtly fearful leſt they themſelves ſhould have loſt their wool marts, made a law,
-<pb n="6" facs="tcp:047213_0005_1022B82CE791B708"/>
+<pb n="6" facs="unknown:047213_0005_1022B82CE791B708"/>
                <hi>viz.</hi>—That no Engliſh <hi>ram</hi> ſhould be conveigled to North America; a plain proof this, that we may make wool a ſta<g ref="char:EOLhyphen"/>ple commodity, and out-vie England: juſt in proportion to the differential quantity of the land in England, and the quantity of land in the United States of America. All that I would be underſtood to imply, is, that when the number of our ſheep increaſe proportionable to the number of our acres of land; then we ſhall actually and <hi>de facto</hi> out-vie Eng<g ref="char:EOLhyphen"/>land, and thereby make ourſelves independent, or not de<g ref="char:EOLhyphen"/>pend upon England, &amp;c. or not depend upon manufactories. It is plain, therefore, that our imports of woollen drapery will there by decreaſe, and our exportation of woollen drape<g ref="char:EOLhyphen"/>ry will thereby increaſe.</p>
             <p>What has been ſaid, reſpective to the nature of the pre<g ref="char:EOLhyphen"/>ceding ſcheme implies its importance. But the way to facili<g ref="char:EOLhyphen"/>tate it will more fully appear in conſidering the formation of the articles of the company of the American Shepherds.</p>
             <p>☞ N. B. Obſerve—that the ſubſcription money <hi>is not</hi> to be paid until the ſaid company ſhall be eſtabliſhed with ar<g ref="char:EOLhyphen"/>ticles, and a power ſufficient to take this matter in hand. When once a company can be eſtabliſhed, with a fund ſuffici<g ref="char:EOLhyphen"/>ent to begin, there is no doubt but that it will have 6000 ſheep in every county in each ſtate: yes, 6000 ſheep in every American townſhip.</p>
@@ -182,7 +183,7 @@ your well diſpoſed, and moſt neglected ſervant, PASTOR AMERICANUS.</signed>
             </closer>
          </div>
          <div type="postscript">
-            <pb n="7" facs="tcp:047213_0006_1022B831B0CCA530"/>
+            <pb n="7" facs="unknown:047213_0006_1022B831B0CCA530"/>
             <head>POSTSCRIPT;</head>
             <p>BEING a ſhort caution and warning to the careleſs inha<g ref="char:EOLhyphen"/>bitants of the United States of North-America, and miſcel<g ref="char:EOLhyphen"/>laneous notes on the folly, ſhame, and danger, of our be<g ref="char:EOLhyphen"/>ing dependant on the <hi>Britiſh,</hi> and other foreign markets.</p>
             <p>Note 1. Americans! This—all this—is pre-meditat<g ref="char:EOLhyphen"/>ed againſt you, <hi>viz.</hi> War and ruin, by the perfidious court of London. It is plain, therefore, that we ought to prohibit her merchandize.</p>
@@ -197,7 +198,7 @@ your well diſpoſed, and moſt neglected ſervant, PASTOR AMERICANUS.</signed>
                <q>You cannot expect a ſingle pound of cotten from this country; whatever quantity we have here, will all go to China.</q>
                <note n="*" place="bottom">See Claypoole's Daily Advertiſer, dated Auguſt 9, 1792.</note>—I muſt add, that this extract is an apology for the preceding letter, and for the miſcellaneous notes add<g ref="char:EOLhyphen"/>ed to it.</p>
             <p>Note 4. Argument 1. It is argued, That if our Ameri<g ref="char:EOLhyphen"/>can hat-makers buy imported, foreign Wool, and that the
-<pb n="8" facs="tcp:047213_0007_1022B83458B2AD78"/>
+<pb n="8" facs="unknown:047213_0007_1022B83458B2AD78"/>
 directors of our National Manufactory give a generous price for American Wool; then it is high time to make Wool our ſtaple commodity:</p>
             <p>But the <hi>firſt</hi> is true; therefore alſo the <hi>laſt.</hi>
             </p>
